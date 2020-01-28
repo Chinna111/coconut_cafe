@@ -1,7 +1,53 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1cb99371-350a-4cb5-8555-e81454f5a757" name="Default Changelist" comment="" />
+    <list default="true" id="1cb99371-350a-4cb5-8555-e81454f5a757" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Templates/Demo.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Templates/Tree.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Templates/Videos/tree1.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Templates/cart.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Templates/co-tree.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Templates/coco-tree.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Templates/coconut milk.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Templates/coconut milk.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Templates/coconut milk/coconut milk.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Templates/coconut milk/coconut-milk.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Templates/coconut oil.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Templates/coconut oil.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Templates/coconut oil/coconut oil.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Templates/coconut oil/coconut tree1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Templates/coconut oil/tree2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Templates/coconut water.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Templates/coconut water.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Templates/coconut water/coconut fruit.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Templates/coconut water/coconutwater.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Templates/coconut.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Templates/coconut.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Templates/coconuts/coconuts.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Templates/home/coconut-milk.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Templates/home/coconutwater.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Templates/icon/fb.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Templates/icon/mail.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Templates/icon/twitter.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Templates/icon/whatsapp.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Templates/mytree.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Templates/s1.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Templates/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Templates/tree/Decoration.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Templates/tree/coconut leave objects.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Templates/tree/coconut leave objects.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Templates/tree/coconut tree.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Templates/tree/coconut-leaf-brooms.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Templates/tree/coconuts.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Templates/tree/coconuts.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Templates/tree/leaves.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Templates/treev.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Templates/treevideo.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Templates/user.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Templates/Home.html" beforeDir="false" afterPath="$PROJECT_DIR$/Templates/Home.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,15 +60,23 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="ProjectId" id="1VsjbpXLiWuLHOKuWL1QZ0l5SPD" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RunManager">
@@ -78,6 +132,9 @@
     </task>
     <servers />
   </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
   <component name="WindowStateProjectService">
     <state width="1827" height="315" key="GridCell.Tab.0.bottom" timestamp="1578053353801">
       <screen x="70" y="27" width="1850" height="1053" />
@@ -95,5 +152,9 @@
       <screen x="70" y="27" width="1850" height="1053" />
     </state>
     <state width="1827" height="315" key="GridCell.Tab.0.right/70.27.1850.1053@70.27.1850.1053" timestamp="1578053353800" />
+    <state x="651" y="381" key="com.intellij.ide.util.TipDialog" timestamp="1578886264884">
+      <screen x="70" y="27" width="1850" height="1053" />
+    </state>
+    <state x="651" y="381" key="com.intellij.ide.util.TipDialog/70.27.1850.1053@70.27.1850.1053" timestamp="1578886264884" />
   </component>
 </project>
